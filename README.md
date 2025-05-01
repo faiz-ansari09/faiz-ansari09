@@ -144,8 +144,8 @@
       <br>Nextjs
       </td> -->
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
-      <br>VsCode
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" />
+      <br>VS Code
       </td>
 <!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
@@ -194,7 +194,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 <!-- ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
-#### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄 / 𝐒𝐓𝐀𝐓𝐄
+#### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
