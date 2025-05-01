@@ -194,7 +194,7 @@
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
 <!-- ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
-#### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄
+#### 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
