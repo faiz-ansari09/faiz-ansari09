@@ -79,20 +79,20 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Python
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="c" />
       <br>C
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
       <br>Java
@@ -101,10 +101,10 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
-    </td>
+    </td> -->
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="tailwind" />
       <br>Tailwind CSS
@@ -127,10 +127,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS3
     </td>
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
-    </td>
+    </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
@@ -139,18 +139,18 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Nextjs" />
       <br>Nextjs
-      </td>
+      </td> -->
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
       </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
-     </td>
+     </td> -->
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
       <br>RestAPI
@@ -176,29 +176,29 @@
 ---
 
 #### 𝐃𝐄𝐒𝐈𝐆𝐍/𝐕𝐈𝐒𝐔𝐀𝐋 𝐓𝐎𝐎𝐋𝐒
-![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
-![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer)
+<!-- ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma) -->
+<!-- ![Framer](https://img.shields.io/badge/-Framer-000?style=for-the-badge&logo=framer) -->
 ![Canva](https://img.shields.io/badge/-Canva-000?style=for-the-badge&logo=canva)
 ![Picsart](https://img.shields.io/badge/-Picsart-000?style=for-the-badge&logo=picsart)
 
 #### 𝐖𝐄𝐁 𝐇𝐎𝐒𝐓𝐈𝐍𝐆
-![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+<!-- ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku) -->
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) -->
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=for-the-badge&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-000?style=for-the-badge&logo=render)
 
 #### 𝐂𝐈 / 𝐂𝐃
-![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci)
+<!-- ![CircleCI](https://img.shields.io/badge/-circle%20ci-000?style=for-the-badge&logo=circleci) -->
 ![GitHub Actions](https://img.shields.io/badge/-github%20actions-000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins)
+<!-- ![Jenkins](https://img.shields.io/badge/-jenkins-000?style=for-the-badge&logo=jenkins) -->
 
 #### 𝐃𝐀𝐓𝐀 𝐁𝐀𝐒𝐄 / 𝐒𝐓𝐀𝐓𝐄
-![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+<!-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase) -->
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=mysql)
-![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx)
+<!-- ![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=mobx) -->
 
 #### 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝐂𝐎𝐍𝐓𝐑𝐎𝐋
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
