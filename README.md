@@ -19,8 +19,10 @@
 <a href="https://discord.com/users/faiz_ans04" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 </p>
 
+<p align="center">
 ### Visitor Count
 ![Hits](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
+</p>
 
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
