@@ -29,6 +29,11 @@
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/faiz-ansari09/count.svg)
 
+https://profile-counter.glitch.me/faiz-ansari09/count.svg?dummy=1
+
+### Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/faiz-ansari09/count.svg)
+
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 💬 Ask me about **ansarifaiz0905@gmail.com**
