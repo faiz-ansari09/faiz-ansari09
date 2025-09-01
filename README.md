@@ -19,7 +19,9 @@
 <a href="https://discord.com/users/faiz_ans04" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 </p>
 
-### Visitor Count
+<p align="center"> 
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
+</p>
 ![Visitor Count](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
 
 
