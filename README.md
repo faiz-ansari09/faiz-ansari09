@@ -21,7 +21,7 @@
 
 <p align="center"> 
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
-  <img src="https://profile-counter.glitch.me/faiz-ansari09/count.svg"/>
+  <img src="https://profile-counter.glitch.me/faiz-ansari09/count.svg?dummy=1"/>
 </p>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
