@@ -19,9 +19,10 @@
 <a href="https://discord.com/users/faiz_ans04" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
 </p>
 
-
-  ![Visitor Count](https://profile-counter.glitch.me/faiz-ansari09/count.svg)
-
+<p align="center"> 
+ 𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
+  <img src="https://profile-counter.glitch.me/faiz-ansari09/count.svg"/>
+</p>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
