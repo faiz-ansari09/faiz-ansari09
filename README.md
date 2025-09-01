@@ -24,7 +24,7 @@
 ![Visitor Count](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
 
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently working **Full-Stack Web Development**
 
 - 💬 Ask me about **ansarifaiz0905@gmail.com**
 
