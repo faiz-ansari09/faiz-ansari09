@@ -21,9 +21,11 @@
 
 <p align="center"> 
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
-![Hits](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
+  <img src="https://profile-counter.glitch.me/faiz-ansari09/count.svg?dummy=1"/>
 </p>
+
 ![Hits](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
+
 ### Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/faiz-ansari09/count.svg)
 
