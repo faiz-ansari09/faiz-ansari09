@@ -21,7 +21,7 @@
 
 
 ### Visitor Count
-![Hits](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
+![Visitor Count](https://hits.sh/github.com/faiz-ansari09/faiz-ansari09.svg)
 
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
