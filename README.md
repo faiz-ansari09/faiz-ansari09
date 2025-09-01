@@ -22,7 +22,7 @@
 
 <p align="center"> 
  𝐕𝐈𝐒𝐈𝐓𝐎𝐑 𝐂𝐎𝐔𝐍𝐓<br>
-  <img src="https://profile-counter.glitch.me/faiz-ansari09/count.svg"/>
+  ![VISITOR COUNT](https://profile-counter.glitch.me/faiz-ansari09/count.svg)
   </p>
 
 
