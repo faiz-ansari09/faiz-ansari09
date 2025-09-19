@@ -21,10 +21,7 @@
 
 
 ### Visitor Count
-<a href="https://github.com/faiz-ansari09">
-  <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen&style=flat" />
-</a>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen" alt="faiz-ansari09" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen" alt="faiz-ansari09" /> </p>
 
 
 - 🌱 I’m currently working **Full-Stack Web Development**
