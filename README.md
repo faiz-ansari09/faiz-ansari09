@@ -24,7 +24,7 @@
 <a href="https://github.com/faiz-ansari09">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=faiz-ansari09&brightgreen&style=flat" />
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakulbhati&color=brightgreen" alt="faiz-ansari09" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen" alt="faiz-ansari09" /> </p>
 
 
 - 🌱 I’m currently working **Full-Stack Web Development**
