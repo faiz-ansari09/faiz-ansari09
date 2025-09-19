@@ -22,7 +22,7 @@
 
 ### Visitor Count
 <a href="https://github.com/faiz-ansari09">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=faiz-ansari09&brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen&style=flat" />
 </a>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=faiz-ansari09&color=brightgreen" alt="faiz-ansari09" /> </p>
 
